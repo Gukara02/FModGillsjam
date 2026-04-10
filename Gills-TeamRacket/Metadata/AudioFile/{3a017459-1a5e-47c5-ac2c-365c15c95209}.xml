@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{1a8fc3ab-8aac-4c4d-ba15-1dade5af3bde}">
+	<object class="AudioFile" id="{3a017459-1a5e-47c5-ac2c-365c15c95209}">
 		<property name="assetPath">
-			<value>CARTOON/CARTOON-POP/Pop-01.wav</value>
+			<value>Footsteps/Metal_BitCrush_GillsGameJam_04.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>192</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.36619791666666668</value>
+			<value>0.41037499999999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>

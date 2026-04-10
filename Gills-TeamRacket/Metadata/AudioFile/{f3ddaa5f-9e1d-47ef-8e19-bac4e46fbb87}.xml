@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f3ddaa5f-9e1d-47ef-8e19-bac4e46fbb87}">
+		<property name="assetPath">
+			<value>Footsteps/Footsteps_BitCrush_GillsGameJam_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.38906249999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
+		</relationship>
+	</object>
+</objects>
