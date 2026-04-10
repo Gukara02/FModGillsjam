@@ -1,0 +1,4 @@
+#ignore these FMOD-files
+.*/
+!.gitignore
+/Metadata/Workspace.xml
