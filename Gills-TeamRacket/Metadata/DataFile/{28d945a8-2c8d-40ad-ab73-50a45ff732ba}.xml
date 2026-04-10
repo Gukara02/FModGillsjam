@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{28d945a8-2c8d-40ad-ab73-50a45ff732ba}">
+		<property name="assetPath">
+			<value>Sound/TYPEWRITER/peaks/Typewriter_Click_01 (03).wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{131cc025-6da8-4937-942b-2309e498f3bc}">
 		<property name="assetPath">
-			<value>Footsteps/Metal_BitCrush_GillsGameJam_03.wav</value>
+			<value>Sound/Footsteps/Metal_BitCrush_GillsGameJam_03.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
