@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d6e12f63-4cc6-4386-83ba-e5f23c4617ba}">
+		<property name="name">
+			<value>Keyboard-Letter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{edbacccf-497c-4413-8ed3-48b2205b25f7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c33ded94-ba27-4d0d-b492-6e8596793955}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c33ded94-ba27-4d0d-b492-6e8596793955}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>21</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>B</value>
+			<value>C</value>
+			<value>E</value>
+			<value>F</value>
+			<value>G</value>
+			<value>H</value>
+			<value>J</value>
+			<value>K</value>
+			<value>L</value>
+			<value>M</value>
+			<value>N</value>
+			<value>O</value>
+			<value>P</value>
+			<value>Q</value>
+			<value>R</value>
+			<value>T</value>
+			<value>U</value>
+			<value>V</value>
+			<value>X</value>
+			<value>Y</value>
+			<value>Z</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
