@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="DataFile" id="{7f6a77e5-af77-4366-bac8-54bda86b2dc3}">
+	<object class="EncodableAsset" id="{2679bf8d-0a91-4d0f-95e1-0027034db194}">
 		<property name="assetPath">
-			<value>Sound/TYPEWRITER/peaks/Typewriter_Click_03 (36).wav.reapeaks</value>
+			<value>Sound/Voice acting/Jump/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>

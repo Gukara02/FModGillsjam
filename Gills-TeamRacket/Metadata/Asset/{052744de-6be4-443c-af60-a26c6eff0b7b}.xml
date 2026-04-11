@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="EncodableAsset" id="{3469ccb8-b42a-48a2-b222-f0bb60a380ca}">
+	<object class="EncodableAsset" id="{052744de-6be4-443c-af60-a26c6eff0b7b}">
 		<property name="assetPath">
-			<value>Sound/TYPEWRITER/peaks/</value>
+			<value>Sound/Jump/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
