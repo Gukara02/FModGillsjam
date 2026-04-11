@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8a97b9ef-4837-45bb-a49e-b0959ec6828e}">
+		<property name="assetPath">
+			<value>Sound/Alphabet_Fnaf/Secret voice lines/Secret voice lines_19.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1758958333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
+		</relationship>
+	</object>
+</objects>

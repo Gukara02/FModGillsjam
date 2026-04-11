@@ -47,7 +47,7 @@
 			<value>Z</value>
 		</property>
 		<property name="initialValue">
-			<value>1</value>
+			<value>0</value>
 		</property>
 	</object>
 </objects>
