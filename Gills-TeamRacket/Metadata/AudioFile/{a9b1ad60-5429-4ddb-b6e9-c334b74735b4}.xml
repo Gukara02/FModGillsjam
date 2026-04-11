@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a9b1ad60-5429-4ddb-b6e9-c334b74735b4}">
+		<property name="assetPath">
+			<value>Sound/Voice acting/Aaron-dialouge/13Uhh… Mirjam_ I have another riddle for you, and I think it’s .wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>30.2378125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
+		</relationship>
+	</object>
+</objects>

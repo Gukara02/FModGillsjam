@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{f73c9e7d-b6a9-47bf-9886-a56e69e73c13}">
+		<property name="assetPath">
+			<value>Sound/Voice acting/Aaron-dialouge/10Well, I don’t get what's so blue about Europe, but let’s try .wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.946249999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{99276007-9b5c-431b-a2da-e88eaa53779d}</destination>
+		</relationship>
+	</object>
+</objects>
