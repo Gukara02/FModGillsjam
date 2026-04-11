@@ -24,7 +24,7 @@
 			<value>cursorPosition</value>
 		</property>
 		<property name="speedAscending">
-			<value>1</value>
+			<value>0.98999994993209839</value>
 		</property>
 		<property name="speedDescending">
 			<value>0.77999997138977051</value>
