@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b2b365b4-a4ca-4f4e-b586-864e038f3908}">
+		<property name="color">
+			<value>Blue Light 1</value>
+		</property>
 		<property name="name">
 			<value>Death Audio</value>
 		</property>
@@ -53,7 +56,7 @@
 			<destination>{e8ecd80f-fd0a-4a15-ab55-a361b805c9e2}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{28da2b8d-086f-455d-b7f7-1a6cf1b8e9ab}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{18cee688-f213-48d3-8c55-8b4083308b10}" />

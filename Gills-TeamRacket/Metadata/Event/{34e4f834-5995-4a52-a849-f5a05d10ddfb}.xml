@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{34e4f834-5995-4a52-a849-f5a05d10ddfb}">
+		<property name="color">
+			<value>Blue Light 1</value>
+		</property>
 		<property name="name">
 			<value>Start</value>
 		</property>
@@ -54,7 +57,7 @@
 			<destination>{d1ae3787-5ae3-43f0-99e3-63995ea0551e}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{b27e421a-4bc2-41ee-84e9-08105c828de0}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{488477bf-62ff-4f88-a7d0-f3ca2ce5a591}" />

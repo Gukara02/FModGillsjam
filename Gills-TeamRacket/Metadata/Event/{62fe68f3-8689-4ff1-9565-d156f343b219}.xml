@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{62fe68f3-8689-4ff1-9565-d156f343b219}">
 		<property name="color">
-			<value>Yellow Light 1</value>
+			<value>Blue Light 1</value>
 		</property>
 		<property name="name">
 			<value>MeatGrinder Mouth</value>
@@ -59,7 +59,7 @@
 			<destination>{40a62b2f-362e-488f-988b-3908e57d2178}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{28da2b8d-086f-455d-b7f7-1a6cf1b8e9ab}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{15d5c4b7-5c14-46a3-a2ca-f7ccb1143ab5}" />

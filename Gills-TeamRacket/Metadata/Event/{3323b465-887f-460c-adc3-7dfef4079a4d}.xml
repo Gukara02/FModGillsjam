@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3323b465-887f-460c-adc3-7dfef4079a4d}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="name">
 			<value>Stinger</value>
 		</property>
@@ -53,7 +56,7 @@
 			<destination>{345b10d6-315d-4699-b3b9-c353ab2877a8}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{ba45a5f8-97fd-48e5-953e-a673422a447a}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{4c474b81-37ab-4998-b6b0-f06c5c238622}" />

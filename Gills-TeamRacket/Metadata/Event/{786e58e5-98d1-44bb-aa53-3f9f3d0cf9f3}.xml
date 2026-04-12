@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{786e58e5-98d1-44bb-aa53-3f9f3d0cf9f3}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="name">
 			<value>Chased</value>
 		</property>
@@ -72,7 +75,7 @@
 			<destination>{8d64845c-2007-40d6-837f-c3ca4fb74d5b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{ba45a5f8-97fd-48e5-953e-a673422a447a}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{68c2de05-7073-4fdc-832c-e7ba6bd49381}" />

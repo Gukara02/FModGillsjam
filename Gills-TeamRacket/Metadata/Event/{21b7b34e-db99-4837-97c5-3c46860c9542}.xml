@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{21b7b34e-db99-4837-97c5-3c46860c9542}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="name">
 			<value>Main menu</value>
 		</property>
@@ -58,7 +61,7 @@
 			<destination>{75907900-0eac-4a00-b267-effc906535f4}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{e369e842-3369-4695-8b95-fcd15a687a06}</destination>
+			<destination>{ba45a5f8-97fd-48e5-953e-a673422a447a}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{21a4bfe0-5566-4b1b-b7a4-e24d233e55f9}" />

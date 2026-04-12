@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{28da2b8d-086f-455d-b7f7-1a6cf1b8e9ab}">
+		<property name="name">
+			<value>MEATGRIND</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{053e9e0a-b3f7-4e2e-9d62-21063941148c}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{9964dde7-cc45-4516-a789-e215ec34e56a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{f54b45d3-b0e2-46d3-a04c-429482c065c6}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{053e9e0a-b3f7-4e2e-9d62-21063941148c}">
+		<relationship name="effects">
+			<destination>{9d5dabb1-daa9-44a0-8a3e-5893e821c1bd}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{9964dde7-cc45-4516-a789-e215ec34e56a}" />
+	<object class="MixerBusFader" id="{9d5dabb1-daa9-44a0-8a3e-5893e821c1bd}" />
+</objects>
