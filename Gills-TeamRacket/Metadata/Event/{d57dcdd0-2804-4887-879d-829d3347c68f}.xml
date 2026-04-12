@@ -142,6 +142,9 @@
 		<property name="length">
 			<value>0.43043749999999997</value>
 		</property>
+		<property name="pitch">
+			<value>3</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{03029d64-bb28-491a-a1ef-1c646181ee89}</destination>
 			<destination>{1db58625-0219-428f-9025-d37d4cc287db}</destination>
@@ -191,7 +194,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{33e05e8f-4c7b-4689-990c-7f1d71427b8d}">
 		<property name="volume">
-			<value>-7.5</value>
+			<value>-17</value>
 		</property>
 		<property name="name">
 			<value>foley</value>
