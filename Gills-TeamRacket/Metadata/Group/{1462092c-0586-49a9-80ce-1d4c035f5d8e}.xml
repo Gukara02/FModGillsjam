@@ -17,8 +17,31 @@
 	<object class="MixerBusEffectChain" id="{677a01cb-3bb7-47eb-becf-3a2465a71f04}">
 		<relationship name="effects">
 			<destination>{be127e41-1446-422c-b4a2-1e7d43d069db}</destination>
+			<destination>{160a7aab-4b12-4ae0-92de-a2724d85e75f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c639c306-8946-49e4-a328-c08216793486}" />
 	<object class="MixerBusFader" id="{be127e41-1446-422c-b4a2-1e7d43d069db}" />
+	<object class="Sidechain" id="{160a7aab-4b12-4ae0-92de-a2724d85e75f}">
+		<property name="level">
+			<value>1</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{9a40dbb3-ac6b-42a6-9f86-ec57297620a4}</destination>
+		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{9a40dbb3-ac6b-42a6-9f86-ec57297620a4}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>580</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
+	</object>
 </objects>
